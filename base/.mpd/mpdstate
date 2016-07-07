@@ -3,8 +3,8 @@ audio_device_state:1:Pulse Audio
 audio_device_state:1:FIFO
 audio_device_state:1:Pipe
 state: pause
-current: 1
-time: 122.415000
+current: 0
+time: 141.804000
 random: 1
 repeat: 1
 single: 0
@@ -13,13 +13,11 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Yes I Am - pg.lost/pg.lost - Yes I Am.flac
-1:Underneath the Roots - Fools and Foes/Fools and Foes - Underneath the Roots - 01 Blindfolded.flac
-2:Underneath the Roots - Fools and Foes/Fools and Foes - Underneath the Roots - 02 For The Night.flac
-3:Underneath the Roots - Fools and Foes/Fools and Foes - Underneath the Roots - 03 Undesired.flac
-4:Underneath the Roots - Fools and Foes/Fools and Foes - Underneath the Roots - 04 Withering.flac
-5:Underneath the Roots - Fools and Foes/Fools and Foes - Underneath the Roots - 05 Lullaby feat. Happy Monday People.flac
-6:]]][[[ - Cloudkicker/Cloudkicker - - - 01 #.flac
-7:]]][[[ - Cloudkicker/Cloudkicker - - - 02 -.flac
-8:]]][[[ - Cloudkicker/Cloudkicker - - - 03 $.flac
+0:Grammy - Purity Ring/Grammy.mp3
+1:Room 93 - Halsey/01 Is There Somewhere.flac
+2:Room 93 - Halsey/02 Ghost.flac
+3:Room 93 - Halsey/03 Hurricane.flac
+4:Room 93 - Halsey/04 Empty Gold.flac
+5:Room 93 - Halsey/05 Trouble (Stripped).flac
+6:iTunes Music/The Great Gatsby (Music from Baz Luhrman/17 Into the Past.m4a
 playlist_end
