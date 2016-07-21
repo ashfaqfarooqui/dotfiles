@@ -3,8 +3,8 @@ audio_device_state:1:Pulse Audio
 audio_device_state:1:FIFO
 audio_device_state:1:Pipe
 state: play
-current: 6
-time: 39.009000
+current: 3
+time: 119.989000
 random: 1
 repeat: 1
 single: 0
@@ -13,11 +13,9 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Grammy - Purity Ring/Grammy.mp3
-1:Room 93 - Halsey/01 Is There Somewhere.flac
-2:Room 93 - Halsey/02 Ghost.flac
-3:Room 93 - Halsey/03 Hurricane.flac
-4:Room 93 - Halsey/04 Empty Gold.flac
-5:Room 93 - Halsey/05 Trouble (Stripped).flac
-6:iTunes Music/The Great Gatsby (Music from Baz Luhrman/17 Into the Past.m4a
+0:Grimgar Soundtrack/Disc 1/08. seeds.mp3
+1:Grimgar Soundtrack/Disc 1/18. rainy tone.mp3
+2:Grimgar Soundtrack/Disc 2/06. sun will rise.mp3
+3:Grimgar Soundtrack/Disc 2/20. Cultivate.mp3
+4:Grimgar Soundtrack/Disc 2/22. Harvest.mp3
 playlist_end
