@@ -1,10 +1,10 @@
-sw_volume: 100
+sw_volume: 50
 audio_device_state:1:Pulse Audio
 audio_device_state:1:FIFO
 audio_device_state:1:Pipe
 state: play
-current: 3
-time: 119.989000
+current: 37
+time: 120.140000
 random: 1
 repeat: 1
 single: 0
@@ -13,9 +13,45 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Grimgar Soundtrack/Disc 1/08. seeds.mp3
-1:Grimgar Soundtrack/Disc 1/18. rainy tone.mp3
-2:Grimgar Soundtrack/Disc 2/06. sun will rise.mp3
-3:Grimgar Soundtrack/Disc 2/20. Cultivate.mp3
-4:Grimgar Soundtrack/Disc 2/22. Harvest.mp3
+0:iTunes Music/This Town Needs Guns/13.0.0.0.0/01 Cat Fantastic.m4a
+1:iTunes Music/This Town Needs Guns/13.0.0.0.0/02 Havoc in the Forum.m4a
+2:iTunes Music/This Town Needs Guns/13.0.0.0.0/03 Left Aligned.m4a
+3:iTunes Music/This Town Needs Guns/13.0.0.0.0/04 In the Branches of Yggdrasil.m4a
+4:iTunes Music/This Town Needs Guns/13.0.0.0.0/05 I'll Take the Minute Snake.m4a
+5:iTunes Music/This Town Needs Guns/13.0.0.0.0/06 2 Birds, 1 Stone and an Empty Sto.m4a
+6:iTunes Music/This Town Needs Guns/13.0.0.0.0/07 Nice Riff, Clichard.m4a
+7:iTunes Music/This Town Needs Guns/13.0.0.0.0/08 Triptych.m4a
+8:iTunes Music/This Town Needs Guns/13.0.0.0.0/09 Pygmy Polygamy.m4a
+9:iTunes Music/This Town Needs Guns/13.0.0.0.0/10 A Different Kind of Tall (Small).m4a
+10:iTunes Music/This Town Needs Guns/13.0.0.0.0/11 +3 Awesomeness Repels Water.m4a
+11:iTunes Music/This Town Needs Guns/13.0.0.0.0/12 13.0.0.0.1.m4a
+12:iTunes Music/This Town Needs Guns/Adventure, Stamina & Anger - Single/01 Adventure, Stamina & Anger.m4a
+13:iTunes Music/This Town Needs Guns/Adventure, Stamina & Anger - Single/02 Mnspector Iorse.m4a
+14:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/01 Pig.m4a
+15:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/02 Baboon.m4a
+16:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/03 Panda.m4a
+17:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/04 Gibbon.m4a
+18:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/05 Rabbit.m4a
+19:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/06 Badger.m4a
+20:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/07 Elk.m4a
+21:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/08 Crocodile.m4a
+22:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/09 Quetzel.m4a
+23:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/10 Chinchilla.m4a
+24:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/11 Dog.m4a
+25:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/12 Lemur.m4a
+26:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/13 Zebra.m4a
+27:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/14 If I Sit Still, Maybe I'll Get Ou.m4a
+28:iTunes Music/This Town Needs Guns/Animals (Bonus Track Version)/15 26 Is Dancier Than 4 (Bonus Track.m4a
+29:iTunes Music/This Town Needs Guns/First Demo - EP/01 They Speak With Strange Accents.m4a
+30:iTunes Music/This Town Needs Guns/First Demo - EP/02 This Is Wrong.m4a
+31:iTunes Music/This Town Needs Guns/First Demo - EP/03 Forever and Always.m4a
+32:iTunes Music/This Town Needs Guns/First Demo - EP/04 Vaguer Transmission.m4a
+33:iTunes Music/This Town Needs Guns/This Town Needs Guns/01 26 Is Dancier Than 4.m4a
+34:iTunes Music/This Town Needs Guns/This Town Needs Guns/02 And I'll Tell You for Why.m4a
+35:iTunes Music/This Town Needs Guns/This Town Needs Guns/03 I'll Forget About You Throwing Th.m4a
+36:iTunes Music/This Town Needs Guns/This Town Needs Guns/04 1470 Man.m4a
+37:iTunes Music/This Town Needs Guns/This Town Needs Guns/05 Want to Come Back to My Room and.m4a
+38:iTunes Music/This Town Needs Guns/This Town Needs Guns/06 If I Sit Still, Maybe I'll Get Ou.m4a
+39:iTunes Music/This Town Needs Guns/This Town Needs Guns/07 Japanese Ultraviolence In D Minor.m4a
+40:iTunes Music/This Town Needs Guns/This Town Needs Guns/08 It's Not True Rufus, Don't Listen.m4a
 playlist_end

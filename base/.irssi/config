@@ -32,12 +32,13 @@ servers = (
     autoconnect = "no";
   },
   {
-    address = "irc.rizon.net";
-    chatnet = "rizon";
-    port = "6667";
+    address = "tomokers.pw";
+    chatnet = "bouncer";
+    port = "2250";
     use_ssl = "no";
     ssl_verify = "no";
     autoconnect = "yes";
+    password = "fullsalvo:Sch00l";
   }
 );
 
@@ -45,7 +46,7 @@ channels = (
   { name = "#nixers"; chatnet = "Iotek"; autojoin = "No"; },
   { name = "#rice"; chatnet = "rizon"; autojoin = "yes"; },
   { name = "#nanodesu"; chatnet = "rizon"; autojoin = "yes"; },
-  { name = "#tomoko"; chatnet = "rizon"; autojoin = "yes"; },
+  { name = "#tomoko"; chatnet = "rizon"; autojoin = "yes"; }
 );
 
 aliases = {
@@ -101,6 +102,7 @@ aliases = {
   com = "/msg ${C} \0033>$0-";
   np = "exec -o mpc -f \"is listening to %title% by %artist%.\" | head -n 1";
   same = "/msg ${C} [\0033✔\017] Same";
+  znc = "/^msg *status";
 };
 
 chatnets = {
@@ -109,6 +111,7 @@ chatnets = {
     type = "IRC";
     autosendcmd = "/^msg nickserv identify Sch00l;wait 2000";
   };
+  bouncer = { type = "IRC"; };
 };
 hilights = (
   { text = "fullsalvo"; nick = "yes"; word = "yes"; },
@@ -134,6 +137,7 @@ statusbar = {
   };
 };
 logs = { };
+ignores = ( { mask = "*!*@*.22CB65D7.9F2E3E07.*"; level = "ALL"; } );
 windows = {
   1 = { immortal = "yes"; name = "(status)"; level = "ALL"; };
   2 = {
@@ -142,7 +146,7 @@ windows = {
         type = "CHANNEL";
         chat_type = "IRC";
         name = "#nanodesu";
-        tag = "rizon";
+        tag = "bouncer";
       }
     );
   };
@@ -152,10 +156,19 @@ windows = {
         type = "CHANNEL";
         chat_type = "IRC";
         name = "#tomoko";
-        tag = "rizon";
+        tag = "bouncer";
+      }
+    );
+  };
+  4 = {
+    items = (
+      {
+        type = "CHANNEL";
+        chat_type = "IRC";
+        name = "#rice";
+        tag = "bouncer";
       }
     );
   };
 };
-mainwindows = { 1 = { first_line = "0"; lines = "38"; }; };
-ignores = ( {mask = "*!*@*.22CB65D7.9F2E3E07.*"; level = "ALL"; } );
+mainwindows = { 1 = { first_line = "0"; lines = "32"; }; };
