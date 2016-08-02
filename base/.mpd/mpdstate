@@ -1,10 +1,10 @@
-sw_volume: 100
+sw_volume: 17
 audio_device_state:1:Pulse Audio
 audio_device_state:1:FIFO
 audio_device_state:1:Pipe
 state: play
-current: 11
-time: 120.070000
+current: 14
+time: 120.140000
 random: 1
 repeat: 1
 single: 0
@@ -13,17 +13,25 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 01 Parachutes.flac
-1:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 02 Lost Your Name.flac
-2:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 03 Back Of Your Head.flac
-3:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 04 Tiny Raindrop.flac
-4:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 05 Notice Me.flac
-5:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 06 Ella.flac
-6:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 07 Cut Me Open.flac
-7:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 08 Reflection.flac
-8:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 09 I'm Swimming.flac
-9:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 10 When I Come Undone.flac
-10:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 11 Dirty Head.flac
-11:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 12 Keepsake (ft. Anthony Green).flac
-12:The Things We Thought We Were Missing - Balance and Composure/Balance and Composure - The Things We Think We're Missing - 13 Enemy.flac
+0:Eingya - Helios/Helios - Eingya - 01 Bless This Morning Year.flac
+1:Eingya - Helios/Helios - Eingya - 02 Halving the Compass.flac
+2:Eingya - Helios/Helios - Eingya - 03 Dragonfly Across An Ancient Sky.flac
+3:Eingya - Helios/Helios - Eingya - 04 Vargtimme.flac
+4:Eingya - Helios/Helios - Eingya - 05 For Years and Years.flac
+5:Eingya - Helios/Helios - Eingya - 06 Coast Off.flac
+6:Eingya - Helios/Helios - Eingya - 07 Paper Tiger.flac
+7:Eingya - Helios/Helios - Eingya - 08 First Dream Called Ocean.flac
+8:Eingya - Helios/Helios - Eingya - 09 The Toy Garden.flac
+9:Eingya - Helios/Helios - Eingya - 10 Sons of Light and Darkness.flac
+10:Eingya - Helios/Helios - Eingya - 11 Emancipation.flac
+11:Yume - Helios/Helios - Yume - 01 Every Passing Hour.flac
+12:Yume - Helios/Helios - Yume - 02 It Was Warmer Then.flac
+13:Yume - Helios/Helios - Yume - 03 Sonora Lac.flac
+14:Yume - Helios/Helios - Yume - 04 Pearls.flac
+15:Yume - Helios/Helios - Yume - 05 Yume.flac
+16:Yume - Helios/Helios - Yume - 06 Skies Minus.flac
+17:Yume - Helios/Helios - Yume - 07 The Root.flac
+18:Yume - Helios/Helios - Yume - 08 Again.flac
+19:Yume - Helios/Helios - Yume - 09 Sing The Same Song Twice.flac
+20:Yume - Helios/Helios - Yume - 10 Embrace.flac
 playlist_end
