@@ -3,8 +3,8 @@ audio_device_state:1:Pulse Audio
 audio_device_state:1:FIFO
 audio_device_state:1:Pipe
 state: play
-current: 8
-time: 120.209000
+current: 1
+time: 120.000000
 random: 1
 repeat: 1
 single: 0
