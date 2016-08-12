@@ -2,9 +2,9 @@ sw_volume: 17
 audio_device_state:1:Pulse Audio
 audio_device_state:1:FIFO
 audio_device_state:1:Pipe
-state: play
-current: 1
-time: 120.000000
+state: pause
+current: 13
+time: 9.613000
 random: 1
 repeat: 1
 single: 0
@@ -13,25 +13,31 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Eingya - Helios/Helios - Eingya - 01 Bless This Morning Year.flac
-1:Eingya - Helios/Helios - Eingya - 02 Halving the Compass.flac
-2:Eingya - Helios/Helios - Eingya - 03 Dragonfly Across An Ancient Sky.flac
-3:Eingya - Helios/Helios - Eingya - 04 Vargtimme.flac
-4:Eingya - Helios/Helios - Eingya - 05 For Years and Years.flac
-5:Eingya - Helios/Helios - Eingya - 06 Coast Off.flac
-6:Eingya - Helios/Helios - Eingya - 07 Paper Tiger.flac
-7:Eingya - Helios/Helios - Eingya - 08 First Dream Called Ocean.flac
-8:Eingya - Helios/Helios - Eingya - 09 The Toy Garden.flac
-9:Eingya - Helios/Helios - Eingya - 10 Sons of Light and Darkness.flac
-10:Eingya - Helios/Helios - Eingya - 11 Emancipation.flac
-11:Yume - Helios/Helios - Yume - 01 Every Passing Hour.flac
-12:Yume - Helios/Helios - Yume - 02 It Was Warmer Then.flac
-13:Yume - Helios/Helios - Yume - 03 Sonora Lac.flac
-14:Yume - Helios/Helios - Yume - 04 Pearls.flac
-15:Yume - Helios/Helios - Yume - 05 Yume.flac
-16:Yume - Helios/Helios - Yume - 06 Skies Minus.flac
-17:Yume - Helios/Helios - Yume - 07 The Root.flac
-18:Yume - Helios/Helios - Yume - 08 Again.flac
-19:Yume - Helios/Helios - Yume - 09 Sing The Same Song Twice.flac
-20:Yume - Helios/Helios - Yume - 10 Embrace.flac
+0:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 01 American Graffiti.flac
+1:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 02 Violent Night.flac
+2:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 03 Spanish Bay.flac
+3:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 04 Egypt.flac
+4:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 05 Simon Vandetta.flac
+5:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 06 Gospel (ft. Joey Lancaster).flac
+6:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 07 Betelgeuse.flac
+7:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 08 Harby.flac
+8:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 09 Buddha (ft. Johnny O'Hagan).flac
+9:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 10 Antiquation.flac
+10:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 11 South American Eclipse.flac
+11:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 12 Volcano Worship (ft. Sarah Glass).flac
+12:American Graffiti - Strawberry Girls/Strawberry Girls - American Graffiti - 13 Overrated (ft. Kurt Travis).flac
+13:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 01 Agua Verde.flac
+14:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 02 Fight Club.flac
+15:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 03 Negro Spiritual.flac
+16:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 04 South American Moon.flac
+17:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 05 Bird Technology Pt. 1.flac
+18:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 06 Bird Technology Pt. 2.flac
+19:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 07 French Ghetto.flac
+20:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 08 Transparent Sea.flac
+21:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 09 Visual Therapy.flac
+22:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 10 Do Peace.flac
+23:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 11 Agua Verde (Acoustic).flac
+24:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 12 French Ghetto (Acoustic).flac
+25:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 13 Do Peace (Acoustic).flac
+26:French Ghetto - Strawberry Girls/Strawberry Girls - French Ghetto - 14 Swimming Pools (Cover).flac
 playlist_end
