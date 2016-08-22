@@ -2,9 +2,9 @@ sw_volume: 33
 audio_device_state:1:Pulse Audio
 audio_device_state:1:FIFO
 audio_device_state:1:Pipe
-state: pause
-current: 18
-time: 107.820000
+state: play
+current: 1
+time: 119.965000
 random: 1
 repeat: 1
 single: 0
