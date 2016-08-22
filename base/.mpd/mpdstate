@@ -3,8 +3,8 @@ audio_device_state:1:Pulse Audio
 audio_device_state:1:FIFO
 audio_device_state:1:Pipe
 state: pause
-current: 8
-time: 215.945000
+current: 18
+time: 107.820000
 random: 1
 repeat: 1
 single: 0
@@ -13,13 +13,26 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Grammy - Purity Ring/Grammy.mp3
-1:L.L.L. - MYTH & ROID/01 L.L.L..flac
-2:L.L.L. - MYTH & ROID/02 The first ending.flac
-3:L.L.L. - MYTH & ROID/03 L.L.L. (Instrumental).flac
-4:L.L.L. - MYTH & ROID/04 The first ending (Instrumental).flac
-5:STYX HELIX - MYTH & ROID/01. STYX HELIX.mp3
-6:STYX HELIX - MYTH & ROID/02. STRAIGHT BET.mp3
-7:STYX HELIX - MYTH & ROID/03. STYX HELIX (Instrumental).mp3
-8:STYX HELIX - MYTH & ROID/04. STRAIGHT BET (Instrumental).mp3
+0:I - Plini Sithu Aye/Sithu Aye - I - 03 Solstice.flac
+1:I - Plini Sithu Aye/Sithu Aye - I - 04 Moonrise.flac
+2:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 01 Invent the Universe.flac
+3:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 02 Grand Unification (feat. David Maxim Micic).flac
+4:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 03 Expansion.flac
+5:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 04 Baryogenesis.flac
+6:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 05 Particles Collide (feat. Plini).flac
+7:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 06 Nucleosynthesis (Interlude).flac
+8:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 07 Recombination.flac
+9:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 08 Dark Ages.flac
+10:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 09 Formation.flac
+11:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 10 Pale Blue Dot.flac
+12:Isles - Sithu Aye/Sithu Aye - Isles EP - 01 Isles.flac
+13:Isles - Sithu Aye/Sithu Aye - Isles EP - 02 Skye.flac
+14:Isles - Sithu Aye/Sithu Aye - Isles EP - 03 Islay.flac
+15:Isles - Sithu Aye/Sithu Aye - Isles EP - 04 Cuillin (Interlude).flac
+16:Isles - Sithu Aye/Sithu Aye - Isles EP - 05 Mull.flac
+17:Isles - Sithu Aye/Sithu Aye - Isles EP - 06 Jura.flac
+18:Isles - Sithu Aye/Sithu Aye - Isles EP - 07 Arrow + Knee = Adventure Over (Bonus Track).flac
+19:Senpai EP - Sithu Aye/Sithu Aye - Senpai EP「先輩EP」 - 01 Oh Shit, I'm Late For School! (やだ、遅刻しちゃう！).flac
+20:Senpai EP - Sithu Aye/Sithu Aye - Senpai EP「先輩EP」 - 02 Senpai, Please Notice Me! (先輩、私に気付いて下さい！).flac
+21:Senpai EP - Sithu Aye/Sithu Aye - Senpai EP「先輩EP」 - 03 The Power of Love and Friendship! (愛と友情のパワー! ).flac
 playlist_end
