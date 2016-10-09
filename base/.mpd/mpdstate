@@ -3,9 +3,9 @@ audio_device_state:1:Pulse Audio
 audio_device_state:1:FIFO
 audio_device_state:1:Pipe
 state: pause
-current: 1
-time: 12.051000
-random: 1
+current: 6
+time: 41.029000
+random: 0
 repeat: 1
 single: 0
 consume: 0
@@ -13,16 +13,17 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Grammy - Purity Ring/Grammy.mp3
-1:Eingya - Helios/Helios - Eingya - 01 Bless This Morning Year.flac
-2:Eingya - Helios/Helios - Eingya - 02 Halving the Compass.flac
-3:Eingya - Helios/Helios - Eingya - 03 Dragonfly Across An Ancient Sky.flac
-4:Eingya - Helios/Helios - Eingya - 04 Vargtimme.flac
-5:Eingya - Helios/Helios - Eingya - 05 For Years and Years.flac
-6:Eingya - Helios/Helios - Eingya - 06 Coast Off.flac
-7:Eingya - Helios/Helios - Eingya - 07 Paper Tiger.flac
-8:Eingya - Helios/Helios - Eingya - 08 First Dream Called Ocean.flac
-9:Eingya - Helios/Helios - Eingya - 09 The Toy Garden.flac
-10:Eingya - Helios/Helios - Eingya - 10 Sons of Light and Darkness.flac
-11:Eingya - Helios/Helios - Eingya - 11 Emancipation.flac
+0:Dance Gavin Dance - Mothership (2016) [FLAC]/01 - Chucky vs. The Giant Tortoise.flac
+1:Dance Gavin Dance - Mothership (2016) [FLAC]/02 - Young Robot.flac
+2:Dance Gavin Dance - Mothership (2016) [FLAC]/03 - Frozen One.flac
+3:Dance Gavin Dance - Mothership (2016) [FLAC]/04 - Flossie Dickey Bounce.flac
+4:Dance Gavin Dance - Mothership (2016) [FLAC]/05 - Deception.flac
+5:Dance Gavin Dance - Mothership (2016) [FLAC]/06 - Inspire The Liars.flac
+6:Dance Gavin Dance - Mothership (2016) [FLAC]/07 - Philosopher King.flac
+7:Dance Gavin Dance - Mothership (2016) [FLAC]/08 - Here Comes The Winner.flac
+8:Dance Gavin Dance - Mothership (2016) [FLAC]/09 - Exposed.flac
+9:Dance Gavin Dance - Mothership (2016) [FLAC]/10 - Betrayed By The Game.flac
+10:Dance Gavin Dance - Mothership (2016) [FLAC]/11 - Petting Zoo Justice.flac
+11:Dance Gavin Dance - Mothership (2016) [FLAC]/12 - Chocolate Jackalope.flac
+12:Dance Gavin Dance - Mothership (2016) [FLAC]/13 - Man Of The Year.flac
 playlist_end
