@@ -2,10 +2,10 @@ sw_volume: 100
 audio_device_state:1:Pulse Audio
 audio_device_state:1:FIFO
 audio_device_state:1:Pipe
-state: pause
-current: 6
-time: 41.029000
-random: 0
+state: play
+current: 1
+time: 68.034000
+random: 1
 repeat: 1
 single: 0
 consume: 0
@@ -13,17 +13,84 @@ crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Dance Gavin Dance - Mothership (2016) [FLAC]/01 - Chucky vs. The Giant Tortoise.flac
-1:Dance Gavin Dance - Mothership (2016) [FLAC]/02 - Young Robot.flac
-2:Dance Gavin Dance - Mothership (2016) [FLAC]/03 - Frozen One.flac
-3:Dance Gavin Dance - Mothership (2016) [FLAC]/04 - Flossie Dickey Bounce.flac
-4:Dance Gavin Dance - Mothership (2016) [FLAC]/05 - Deception.flac
-5:Dance Gavin Dance - Mothership (2016) [FLAC]/06 - Inspire The Liars.flac
-6:Dance Gavin Dance - Mothership (2016) [FLAC]/07 - Philosopher King.flac
-7:Dance Gavin Dance - Mothership (2016) [FLAC]/08 - Here Comes The Winner.flac
-8:Dance Gavin Dance - Mothership (2016) [FLAC]/09 - Exposed.flac
-9:Dance Gavin Dance - Mothership (2016) [FLAC]/10 - Betrayed By The Game.flac
-10:Dance Gavin Dance - Mothership (2016) [FLAC]/11 - Petting Zoo Justice.flac
-11:Dance Gavin Dance - Mothership (2016) [FLAC]/12 - Chocolate Jackalope.flac
-12:Dance Gavin Dance - Mothership (2016) [FLAC]/13 - Man Of The Year.flac
+0:More Skin With Milk-Mouth - GIRAFFES GIRAFFES/GIRAFFES- GIRAFFES! - More Skin With Milk-Mouth - 01 When The Catholic Girls Go Camping, The Nicotine Vampires Rule Supreme..flac
+1:More Skin With Milk-Mouth - GIRAFFES GIRAFFES/GIRAFFES- GIRAFFES! - More Skin With Milk-Mouth - 02 I Am S-H(im)e-r- As You Am S-H(im)e-r- As You Are Me And We Am I And I Are All Our Together- Our Collective Consciousness.flac
+2:More Skin With Milk-Mouth - GIRAFFES GIRAFFES/GIRAFFES- GIRAFFES! - More Skin With Milk-Mouth - 03 The Ghost Of EPPEEPEE’s Ghost.flac
+3:More Skin With Milk-Mouth - GIRAFFES GIRAFFES/GIRAFFES- GIRAFFES! - More Skin With Milk-Mouth - 04 Emilie Sagée’s Secret.flac
+4:More Skin With Milk-Mouth - GIRAFFES GIRAFFES/GIRAFFES- GIRAFFES! - More Skin With Milk-Mouth - 05 A Quick One, While She’s Away.flac
+5:In Eternal Lines - I Am Waiting For You Last Summer/01-i_am_waiting_for_you_last_summer-retreat-spank.flac
+6:In Eternal Lines - I Am Waiting For You Last Summer/02-i_am_waiting_for_you_last_summer-lights_go_out-spank.flac
+7:In Eternal Lines - I Am Waiting For You Last Summer/03-i_am_waiting_for_you_last_summer-promise_you_gave_me-spank.flac
+8:In Eternal Lines - I Am Waiting For You Last Summer/04-i_am_waiting_for_you_last_summer-equal_among_the_best_(feat._aurora)-spank.flac
+9:In Eternal Lines - I Am Waiting For You Last Summer/05-i_am_waiting_for_you_last_summer-through_the_walls-spank.flac
+10:In Eternal Lines - I Am Waiting For You Last Summer/06-i_am_waiting_for_you_last_summer-mists_roll_away-spank.flac
+11:In Eternal Lines - I Am Waiting For You Last Summer/07-i_am_waiting_for_you_last_summer-distant_voices-spank.flac
+12:In Eternal Lines - I Am Waiting For You Last Summer/08-i_am_waiting_for_you_last_summer-let_you_go_(feat._ellie)-spank.flac
+13:In Eternal Lines - I Am Waiting For You Last Summer/09-i_am_waiting_for_you_last_summer-farewell-spank.flac
+14:Yes I Am - pg.lost/pg.lost - Yes I Am.flac
+15:I - Plini Sithu Aye/Plini - I - 01 Orm.flac
+16:I - Plini Sithu Aye/Plini - I - 02 Rupture.flac
+17:Ko Ki - Plini/Plini - 01 - Ko Ki.flac
+18:I - Plini Sithu Aye/Sithu Aye - I - 03 Solstice.flac
+19:I - Plini Sithu Aye/Sithu Aye - I - 04 Moonrise.flac
+20:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 01 Invent the Universe.flac
+21:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 02 Grand Unification (feat. David Maxim Micic).flac
+22:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 03 Expansion.flac
+23:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 04 Baryogenesis.flac
+24:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 05 Particles Collide (feat. Plini).flac
+25:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 06 Nucleosynthesis (Interlude).flac
+26:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 07 Recombination.flac
+27:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 08 Dark Ages.flac
+28:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 09 Formation.flac
+29:Invent the Universe - Sithu Aye/Sithu Aye - Invent the Universe - 10 Pale Blue Dot.flac
+30:Isles - Sithu Aye/Sithu Aye - Isles EP - 01 Isles.flac
+31:Isles - Sithu Aye/Sithu Aye - Isles EP - 02 Skye.flac
+32:Isles - Sithu Aye/Sithu Aye - Isles EP - 03 Islay.flac
+33:Isles - Sithu Aye/Sithu Aye - Isles EP - 04 Cuillin (Interlude).flac
+34:Isles - Sithu Aye/Sithu Aye - Isles EP - 05 Mull.flac
+35:Isles - Sithu Aye/Sithu Aye - Isles EP - 06 Jura.flac
+36:Isles - Sithu Aye/Sithu Aye - Isles EP - 07 Arrow + Knee = Adventure Over (Bonus Track).flac
+37:Senpai EP - Sithu Aye/Sithu Aye - Senpai EP「先輩EP」 - 01 Oh Shit, I'm Late For School! (やだ、遅刻しちゃう！).flac
+38:Senpai EP - Sithu Aye/Sithu Aye - Senpai EP「先輩EP」 - 02 Senpai, Please Notice Me! (先輩、私に気付いて下さい！).flac
+39:Senpai EP - Sithu Aye/Sithu Aye - Senpai EP「先輩EP」 - 03 The Power of Love and Friendship! (愛と友情のパワー! ).flac
+40:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 01 反逆する風景.flac
+41:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 02 孤独の発明.flac
+42:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 03 tremolo + delay.flac
+43:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 04 むこう岸が視る夢.flac
+44:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 05 all i understand is that i don't understand.flac
+45:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 06 c.flac
+46:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 07 past and language.flac
+47:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 08 music for you.flac
+48:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 09 i do still wrong.flac
+49:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 10 メトロノーム.flac
+50:the book about my idle plot on a vague anxiety - toe/toe - the book about my idle plot on a vague anxiety - 11 everything means nothing.flac
+51:]]][[[ - Cloudkicker/Cloudkicker - - - 01 #.flac
+52:]]][[[ - Cloudkicker/Cloudkicker - - - 02 -.flac
+53:]]][[[ - Cloudkicker/Cloudkicker - - - 03 $.flac
+54:Let Yourself Be Huge - Cloudkicker/Cloudkicker - Let Yourself Be Huge - 01 Welcome back.flac
+55:Let Yourself Be Huge - Cloudkicker/Cloudkicker - Let Yourself Be Huge - 02 Explore, be curious.flac
+56:Let Yourself Be Huge - Cloudkicker/Cloudkicker - Let Yourself Be Huge - 03 The word water.flac
+57:Let Yourself Be Huge - Cloudkicker/Cloudkicker - Let Yourself Be Huge - 04 You and yours.flac
+58:Let Yourself Be Huge - Cloudkicker/Cloudkicker - Let Yourself Be Huge - 05 One, many.flac
+59:Let Yourself Be Huge - Cloudkicker/Cloudkicker - Let Yourself Be Huge - 06 It's inside me, and I'm inside it.flac
+60:Let Yourself Be Huge - Cloudkicker/Cloudkicker - Let Yourself Be Huge - 07 This isn't.flac
+61:Let Yourself Be Huge - Cloudkicker/Cloudkicker - Let Yourself Be Huge - 08 Let yourself be huge.flac
+62:Little Histories - Cloudkicker/Cloudkicker - Little Histories - 01 Parliament.flac
+63:Little Histories - Cloudkicker/Cloudkicker - Little Histories - 02 Sky Guide.flac
+64:Little Histories - Cloudkicker/Cloudkicker - Little Histories - 03 Chameleon.flac
+65:Little Histories - Cloudkicker/Cloudkicker - Little Histories - 04 Digital Lightning.flac
+66:Little Histories - Cloudkicker/Cloudkicker - Little Histories - 05 Hassan.flac
+67:Little Histories - Cloudkicker/Cloudkicker - Little Histories - 06 Signal-Noise.flac
+68:Subsume - Cloudkicker/Cloudkicker - Subsume - 01 The warmth of the daytime seemed like a dream now..flac
+69:Subsume - Cloudkicker/Cloudkicker - Subsume - 02 A weather front was stalled out in the Pacific-like a lonely person, lost in thought, oblivious of time..flac
+70:Subsume - Cloudkicker/Cloudkicker - Subsume - 03 He would be riding on the subway or writing formulas on the blackboard or having a meal or (as now) sitting and talking to someone across a table, a.flac
+71:Subsume - Cloudkicker/Cloudkicker - Subsume - 04 You could laugh forever but never end up happy..flac
+72:Subsume - Cloudkicker/Cloudkicker - Subsume - 05 The warmth of the daytime seemed like a dream now. (t16 remix).flac
+73:Woum - Cloudkicker/Cloudkicker - Woum - 01 Intro to Woum.flac
+74:Woum - Cloudkicker/Cloudkicker - Woum - 02 Trim Splint.flac
+75:Woum - Cloudkicker/Cloudkicker - Woum - 03 Emfargo.flac
+76:Woum - Cloudkicker/Cloudkicker - Woum - 04 Plurals.flac
+77:Woum - Cloudkicker/Cloudkicker - Woum - 05 Threaded.flac
+78:Woum - Cloudkicker/Cloudkicker - Woum - 06 Dovetail.flac
+79:Woum - Cloudkicker/Cloudkicker - Woum - 07 Mou.flac
 playlist_end
