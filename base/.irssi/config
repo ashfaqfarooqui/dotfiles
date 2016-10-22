@@ -41,12 +41,12 @@ servers = (
     password = "mitya/rizon:Sch00l";
   },
   {
-    address = "irc.rizon.net";
-    chatnet = "rizon";
-    port = "6667";
-    use_ssl = "no";
-    ssl_verify = "no";
-    autoconnect = "no";
+	address = "irc.rizon.net";
+	chatnet = "rizon";
+	port = "6667";
+	use_ssl = "no";
+	ssl_verify = "no";
+	autoconnect = "no";
   }
 );
 
@@ -120,7 +120,6 @@ chatnets = {
     autosendcmd = "/^msg nickserv identify Sch00l;wait 2000";
   };
   bouncer = { type = "IRC"; };
-  bouncerizon = { type = "IRC"; };
 };
 hilights = (
   { text = "fullsalvo"; nick = "yes"; word = "yes"; },
@@ -151,12 +150,12 @@ windows = {
   1 = { immortal = "yes"; name = "(status)"; level = "ALL"; };
   2 = {
     items = (
-      {
-        type = "CHANNEL";
-        chat_type = "IRC";
-        name = "#nanodesu";
-        tag = "bouncerizon";
-      }
+	  {
+	    type = "CHANNEL";
+		chat_type = "IRC";
+		name = "#nanodesu";
+		tag = "bouncerizon";
+	  }
     );
   };
   3 = {
